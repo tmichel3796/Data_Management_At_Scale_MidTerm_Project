@@ -19,4 +19,5 @@ The project was broken out into 4 parts.
  
   - In part 3 I show How I would combine many spreadsheets of data together.
 
-  - In part 4 tnhoeuisnthosenuzvith
+  - In part 4 The processed data was used to create some data visualizations
+  
